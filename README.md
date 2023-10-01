@@ -1,2 +1,6 @@
-# Capstone-Group3-Project
-Source code for Android App of Our Project
+Group3
+
+- Yinjiang Nie
+Dog Deck
+Capstone-Group3-Project
+
